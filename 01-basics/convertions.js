@@ -1,10 +1,10 @@
 let score="33"
 
-// console.log(typeof score)
-// console.log(typeof(score))
+ console.log(typeof score)
+console.log(typeof(score))
 
-// console.log(null >= 0)
-// console.log(null == 0)
+ console.log(null >= 0)
+console.log(null == 0)
 
 // >= converts string to number but == doesnt
 
