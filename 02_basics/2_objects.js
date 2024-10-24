@@ -4,7 +4,7 @@ const mySym= Symbol("key1");
 const JsUser = {
     name : "Krishna", //behind the scene name is in string format  
     age : 18,
-    "class roll" : 002211701087,
+    "class roll" : 2211701087,
     emailId : "krishnadidwania17@gmail.com",
     loggedIn: false,
     [mySym] : "mykey1"
